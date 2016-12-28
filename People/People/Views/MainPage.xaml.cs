@@ -17,8 +17,10 @@ namespace People
         {
             InitializeComponent();            
         }
-
-        public async Task OnNewButtonClicked(object sender, EventArgs args)
+				
+		//NOTE: Events (Such as button click) MUST have a void return type. 
+		//To do otherwise leads to a "Button does not have correct signature" error
+        public async void OnNewButtonClicked(object sender, EventArgs args)
         {
             statusMessage.Text = "";
                         
@@ -28,7 +30,7 @@ namespace People
             statusMessage.Text = App.PersonRepo.StatusMessage;
         }
         
-				public async Task OnGetButtonClicked(object sender, EventArgs args)
+				public async void OnGetButtonClicked(object sender, EventArgs args)
         {
             statusMessage.Text = "";
 

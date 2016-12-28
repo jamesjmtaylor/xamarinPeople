@@ -1,14 +1,17 @@
-﻿<Properties StartupConfiguration="{734FEFA4-C0A7-4250-B0E7-84FC81DE7A64}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="People/People/Views/MainPage.xaml.cs">
+﻿<Properties StartupConfiguration="{365E67FC-5E6D-4384-8A6A-581E41621C35}|Default">
+  <MonoDevelop.Ide.ItemProperties.People.Droid PreferredExecutionTarget="Android.Nexus 4 (Marshmallow)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="People/People.Droid/MainActivity.cs">
     <Files>
-      <File FileName="People/People/App.cs" Line="22" Column="2" />
+      <File FileName="People/People/App.cs" Line="19" Column="1" />
       <File FileName="People/People/Models/Person.cs" Line="2" Column="1" />
-      <File FileName="People/People/Models/PersonRepository.cs" Line="36" Column="5" />
-      <File FileName="People/People/Views/MainPage.xaml.cs" Line="11" Column="1" />
+      <File FileName="People/People/Models/PersonRepository.cs" Line="60" Column="2" />
+      <File FileName="People/People/Views/MainPage.xaml.cs" Line="18" Column="1" />
       <File FileName="People/People/Views/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="People/People/obj/Debug/People.Views.MainPage.xaml.g.cs" Line="14" Column="5" />
+      <File FileName="People/People.Droid/MainActivity.cs" Line="18" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
