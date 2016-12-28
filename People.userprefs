@@ -4,7 +4,7 @@
       <File FileName="People/People/App.cs" Line="22" Column="2" />
       <File FileName="People/People/Models/Person.cs" Line="2" Column="1" />
       <File FileName="People/People/Models/PersonRepository.cs" Line="36" Column="5" />
-      <File FileName="People/People/Views/MainPage.xaml.cs" Line="11" Column="76" />
+      <File FileName="People/People/Views/MainPage.xaml.cs" Line="11" Column="1" />
       <File FileName="People/People/Views/MainPage.xaml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

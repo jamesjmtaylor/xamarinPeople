@@ -2,6 +2,7 @@
 using Xamarin.Forms;
 using System;
 using System.Collections.ObjectModel;
+using System.Threading.Tasks;
 
 namespace People
 {
@@ -17,19 +18,23 @@ namespace People
             InitializeComponent();            
         }
 
-        public void OnNewButtonClicked(object sender, EventArgs args)
+        public async Task OnNewButtonClicked(object sender, EventArgs args)
         {
             statusMessage.Text = "";
                         
-            App.PersonRepo.AddNewPerson(newPerson.Text);
+			//NOTE: calling AddNewPersonAsync(...) in this fashion allows the method call to be truly asynchronous 
+			// (as opposed to just calling it asynchronously from within a synchronous method)
+            await App.PersonRepo.AddNewPersonAsync(newPerson.Text);
             statusMessage.Text = App.PersonRepo.StatusMessage;
         }
         
-        public void OnGetButtonClicked(object sender, EventArgs args)
+				public async Task OnGetButtonClicked(object sender, EventArgs args)
         {
             statusMessage.Text = "";
 
-            ObservableCollection<Person> people = new ObservableCollection<Person>(App.PersonRepo.GetAllPeople());
+			//NOTE: calling GetAllPeopleAsync(...) in this fashion allows the method call to be truly asynchronous 
+			// (as opposed to just calling it asynchronously from within a synchronous method)
+            ObservableCollection<Person> people = new ObservableCollection<Person>(await App.PersonRepo.GetAllPeopleAsync());
             peopleList.ItemsSource = people;
         }
     }
