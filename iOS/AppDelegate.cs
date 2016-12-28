@@ -19,7 +19,10 @@ namespace People.iOS
 			Xamarin.Calabash.Start();
 #endif
 
-			LoadApplication(new App());
+			//NOTE: The app controller for the iOS platform is created here;
+			//the App class subsequently inflates the view
+			string dbPath = FileAccessHelper.GetLocalFilePath("people.db3");
+      LoadApplication(new App(dbPath));
 
 			return base.FinishedLaunching(app, options);
 		}
