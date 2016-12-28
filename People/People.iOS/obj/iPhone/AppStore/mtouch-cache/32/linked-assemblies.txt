@@ -1,0 +1,17 @@
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.ServiceModel.Internals.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/SQLite-net.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.Forms.Platform.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/People.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.Xml.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.Core.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.Forms.Xaml.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/mscorlib.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/SQLitePCL.raw.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/AppStore/mtouch-cache/32/Link/PeopleiOS.exe

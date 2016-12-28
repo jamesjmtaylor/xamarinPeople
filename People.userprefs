@@ -1,17 +1,14 @@
-﻿<Properties StartupConfiguration="{D602DC8F-91AE-4BDA-90F1-D90B4CEB3970}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+﻿<Properties StartupConfiguration="{734FEFA4-C0A7-4250-B0E7-84FC81DE7A64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="People/People/Views/MainPage.xaml.cs">
     <Files>
-      <File FileName="Droid/FileAccessHelper.cs" Line="20" Column="1" />
-      <File FileName="People/App.xaml" Line="5" Column="26" />
-      <File FileName="People/PeoplePage.xaml" Line="6" Column="1" />
-      <File FileName="People/PeoplePage.xaml.cs" Line="14" Column="1" />
-      <File FileName="iOS/FileAccessHelper.cs" Line="27" Column="1" NotebookId="1" />
-      <File FileName="iOS/AppDelegate.cs" Line="24" Column="4" NotebookId="1" />
-      <File FileName="People/App.xaml.cs" Line="19" Column="20" NotebookId="1" />
-      <File FileName="Droid/MainActivity.cs" Line="25" Column="4" NotebookId="1" />
+      <File FileName="People/People/App.cs" Line="22" Column="2" />
+      <File FileName="People/People/Models/Person.cs" Line="2" Column="1" />
+      <File FileName="People/People/Models/PersonRepository.cs" Line="36" Column="5" />
+      <File FileName="People/People/Views/MainPage.xaml.cs" Line="11" Column="76" />
+      <File FileName="People/People/Views/MainPage.xaml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

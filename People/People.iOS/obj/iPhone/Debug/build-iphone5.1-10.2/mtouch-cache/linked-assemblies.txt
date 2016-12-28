@@ -1,0 +1,17 @@
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/System.ServiceModel.Internals.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/SQLite-net.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/Xamarin.Forms.Platform.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/People.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/System.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/System.Xml.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/System.Core.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/Xamarin.Forms.Xaml.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/mscorlib.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/SQLitePCL.raw.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/System.Net.Http.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/jtaylor/Downloads/People/People/People.iOS/obj/iPhone/Debug/build-iphone5.1-10.2/mtouch-cache/Link/PeopleiOS.exe

@@ -1,0 +1,7 @@
+/Users/jtaylor/Projects/People/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jtaylor/Projects/People/UITests/bin/Debug/People.UITests.dll.mdb
+/Users/jtaylor/Projects/People/UITests/bin/Debug/People.UITests.dll
+/Users/jtaylor/Projects/People/UITests/obj/Debug/People.UITests.dll
+/Users/jtaylor/Projects/People/UITests/obj/Debug/People.UITests.dll.mdb
+/Users/jtaylor/Projects/People/UITests/bin/Debug/nunit.framework.dll
+/Users/jtaylor/Projects/People/UITests/bin/Debug/Xamarin.UITest.dll

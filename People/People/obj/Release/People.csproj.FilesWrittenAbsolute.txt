@@ -1,0 +1,12 @@
+/Users/jtaylor/Downloads/People/People/People/obj/Release/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/jtaylor/Downloads/People/People/People/obj/Release/People.MainPage.xaml.g.cs
+/Users/jtaylor/Downloads/People/People/People/obj/Release/People.MainPage.xaml
+/Users/jtaylor/Downloads/People/People/People/bin/Release/People.dll.mdb
+/Users/jtaylor/Downloads/People/People/People/bin/Release/People.dll
+/Users/jtaylor/Downloads/People/People/People/obj/Release/People.dll
+/Users/jtaylor/Downloads/People/People/People/obj/Release/People.dll.mdb
+/Users/jtaylor/Downloads/People/People/People/bin/Release/SQLite-net.dll
+/Users/jtaylor/Downloads/People/People/People/bin/Release/SQLitePCL.raw.dll
+/Users/jtaylor/Downloads/People/People/People/bin/Release/Xamarin.Forms.Core.dll
+/Users/jtaylor/Downloads/People/People/People/bin/Release/Xamarin.Forms.Platform.dll
+/Users/jtaylor/Downloads/People/People/People/bin/Release/Xamarin.Forms.Xaml.dll
